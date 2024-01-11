@@ -4,7 +4,8 @@
 <p align="center">Eu Sou um Estudante, e Estou ❤ aprender Programação. <br><br> Estou Cursando Desenvolvimento de Software Fullstack da Cubos Academy</strong>, Pretendo me tornar <strong>um Desenvolvedor FrontEnd, com Foco em UX/UI Designer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=giosobral&theme=radical&mode=weekly" />
+<!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=giosobral&theme=radical&mode=weekly" /> -->
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=giosobral&show_icons=true&theme=radical" />
 <img width=40% align="center" src="https://github-readme-stat-git-186505-giovane-sobral-oliveiras-projects.vercel.app/api/top-langs/?username=giosobral&show_icons=true&theme=radical&layout=compact" />
  </div>
  
