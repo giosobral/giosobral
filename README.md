@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/giosobral/giosobral/main/GitHub-Header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu Sou um Estutante, e Estou ❤ aprender Programação. <br><br> Estou Cursando Desenvolvimento de Software Fullstack da Cubos Academy</strong>, Pretendo me tornar <strong>um Desenvolvedor FrontEnd, com Foco em UX/UI Designer.</p>&nbsp;
+<p align="center">Eu Sou um Estudante, e Estou ❤ aprender Programação. <br><br> Estou Cursando Desenvolvimento de Software Fullstack da Cubos Academy</strong>, Pretendo me tornar <strong>um Desenvolvedor FrontEnd, com Foco em UX/UI Designer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=giosobral&theme=radical&mode=weekly" />
@@ -35,13 +35,13 @@
 &nbsp;
 &nbsp;
 
-## Contatoss:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/gio.sobral21?igsh=ZWVuaGFuZXYwMncz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.giovanesobral10@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="www.linkedin.com/in/giovane-sobral-0043b8285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/giovane-sobral-0043b8285"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@giovanesobral10" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
