@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/giosobral/giosobral/main/GitHub-Header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu Sou um Estudante, e Estou ❤ aprender Programação. <br><br> Estou Cursando Desenvolvimento de Software Fullstack da Cubos Academy</strong>, Pretendo me tornar <strong>um Desenvolvedor FrontEnd, com Foco em UX/UI Designer.</p>&nbsp;
+<p align="center">Desenvolvedor Fullstack em formação, eu simplesmente amo estudar programação e todo o processo de desenvolvimento de um software deste seu design até sua programação Frontend e Backend. <br><br> Estou Cursando Desenvolvimento de Software Fullstack da Cubos Academy</strong>, Pretendo me tornar <strong>um Desenvolvedor de Sofware, e confesso que as areas que mais me fascina no desenvolvimento de software é o frontend e o design de interface do usuário.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=giosobral&theme=radical&mode=weekly" /> -->
@@ -34,12 +34,13 @@
 
 
 
-#### Plataformas de Trabalhos:
+#### 👨‍💻Plataformas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-
+#### 📁Principais Projetos:
+<a target="_blank" href="https://github.com/giosobral/Cubos-Bank-"> 🏦💠BANCO DIGITAL - Cubos Bank </a>
 
 
 &nbsp;
