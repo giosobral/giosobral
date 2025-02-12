@@ -45,7 +45,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 #### 📁Principais Projetos:
-<a target="_blank" href="https://github.com/giosobral/Cubos-Bank-"> 🏦💠BANCO DIGITAL - Cubos Bank </a>
+<a target="_blank" href="https://github.com/giosobral/todo-react"> 📋✅ Gerenciador de Tarefas </a>
 
 
 &nbsp;
