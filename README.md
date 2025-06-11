@@ -46,8 +46,8 @@
 
 #### 📁Principais Projetos:
 <a target="_blank" href="https://github.com/giosobral/finance-ai">Gestor Financeiro📊💰</a><br>
-<a target="_blank" href="https://github.com/giosobral/fsw-donalds">Self-Checkout🍔🍟</a>
-<a target="_blank" href="https://github.com/giosobral/doutor-agenda">Doutor Agenda 🏥 </a>
+<a target="_blank" href="https://github.com/giosobral/fsw-donalds">Self-Checkout🍔🍟</a><br>
+<a target="_blank" href="https://github.com/giosobral/doutor-agenda">Doutor Agenda 🏥</a>
 
 
 &nbsp;
