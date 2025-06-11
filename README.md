@@ -45,9 +45,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 #### 📁Principais Projetos:
-<a target="_blank" href="https://github.com/giosobral/doutor-agenda">Doutor Agenda 🏥</a>
-<a target="_blank" href="https://github.com/giosobral/finance-ai">Gestor Financeiro📊💰</a><br>
-<a target="_blank" href="https://github.com/giosobral/fsw-donalds">Self-Checkout🍔🍟</a><br>
+<a target="_blank" href="https://github.com/giosobral/doutor-agenda">Doutor Agenda 🏥</a><br>
+<a target="_blank" href="https://github.com/giosobral/finance-ai">Gestor Finance.AI📊💰</a><br>
+<a target="_blank" href="https://github.com/giosobral/fsw-donalds">FSW-Donalds🍔🍟</a><br>
 
 
 
