@@ -1,8 +1,10 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/giosobral/giosobral/main/GitHub-Header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá! Sou Giovane Sobral, apaixonado por tecnologia e pelo universo da programação. Como desenvolvedor Fullstack, tenho prazer em participar de todas as etapas do desenvolvimento de software — do design à implementação, tanto no Frontend quanto no Backend.
+<p align="center">Apaixonado por tecnologia e pelo universo da programação. Como desenvolvedor Fullstack, tenho prazer em participar de todas as etapas do desenvolvimento de software — do design à implementação, tanto no Frontend quanto no Backend.
+</p>&nbsp;
 
+<p align="center">
 🎯 Meu objetivo é me tornar Engenheiro de Software, e estou sempre em busca de novos conhecimentos e desafios que me permitam evoluir como profissional e contribuir com soluções inovadoras. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
